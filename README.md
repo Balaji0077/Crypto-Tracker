@@ -1,7 +1,7 @@
  <h1>Cryptocurrency Tracker</h1>
  
  <p> 
-A cryptocurrency tracker application in React can allow us to monitor real-time prices for various cryptocurrencies (like Bitcoin, Ethereum, Litecoin, XMR.) in USD and EUR. 
+A cryptocurrency tracker application allows users to monitor real-time cryptocurrency prices (like Bitcoin, Ethereum, Litecoin, XMR.) in USD and EUR. 
  </p>
  
 ### Set Up Instructions
